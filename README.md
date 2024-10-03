@@ -25,7 +25,7 @@ This repository is organized into several folders, each representing a different
 Projects that involve data analysis, predictive modeling, and implementing machine learning algorithms.
 
 - [**Housing Price Prediction**](./machine-learning-projects/housing-price-prediction)
-- [**S&P 500 Price Prediction**](./machine-learning-projects/SP500-price-prediction)
+- [**S&P 500 Price Prediction**](./machine-learning-projects/S&P500-price-prediction)
 
 ### Deep Learning Projects
 
